@@ -1,1 +1,1 @@
-var pillows = "fluffy";
+var pillows = "firm";
